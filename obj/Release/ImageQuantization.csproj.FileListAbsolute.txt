@@ -1,0 +1,28 @@
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.exe
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.pdb
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.Image_Quantize.resources
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.exe
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.pdb
+C:\Users\khairy\Desktop\[1] Image Quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\yousef\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.exe
+C:\Users\yousef\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.pdb
+C:\Users\yousef\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.exe
+C:\Users\yousef\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.pdb
+C:\Users\yousef\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\yousef\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.Image_Quantize.resources
+C:\Users\yousef\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+C:\Users\yousef\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+C:\Users\yousef\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csproj.GenerateResource.Cache
+D:\Fcis\third year\Third Year - Term 1\projects\image quantization project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.exe
+D:\Fcis\third year\Third Year - Term 1\projects\image quantization project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.pdb
+D:\Fcis\third year\Third Year - Term 1\projects\image quantization project\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.exe
+D:\Fcis\third year\Third Year - Term 1\projects\image quantization project\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.pdb
+D:\Fcis\third year\Third Year - Term 1\projects\image quantization project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csprojResolveAssemblyReference.cache
+D:\Fcis\third year\Third Year - Term 1\projects\image quantization project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.Image_Quantize.resources
+D:\Fcis\third year\Third Year - Term 1\projects\image quantization project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+D:\Fcis\third year\Third Year - Term 1\projects\image quantization project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+D:\Fcis\third year\Third Year - Term 1\projects\image quantization project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csproj.GenerateResource.Cache
+D:\Fcis\third year\Third Year - Term 1\projects\image quantization project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csproj.CoreCompileInputs.cache
